@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pashasaat13@gmail.com
-- 😄 Pronouns: Pasha
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
